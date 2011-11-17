@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://vtdevnet.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: VTDevNet
+subtitle: We are a group of Vermonters interested in international development issues and topics. We are a place to network, share crazy travel stories, etc.
+author: Carmen Tedesco
 simple_search: http://google.com/search
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -63,9 +63,9 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: vtdevnet
 twitter_tweet_count: 4
-twitter_show_replies: false
+twitter_show_replies: true
 twitter_follow_button: true
 twitter_show_follower_count: false
 twitter_tweet_button: true
